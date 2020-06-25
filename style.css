@@ -78,6 +78,11 @@ body{
     padding: 30px;
 }
 
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
 
 @media screen and (max-width: 700px) {
     .holder{
